@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15213302788",
+    "project_id": "bookingo-9e8aa",
+    "storage_bucket": "bookingo-9e8aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15213302788:android:cc96258a17295954499151",
+        "android_client_info": {
+          "package_name": "com.example.bookingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15213302788-780fdkc8g8v7hh67r470a6ut64eq5a7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrP7l-rH1kEdVRRHlQumU2znf1YTNWrCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15213302788-780fdkc8g8v7hh67r470a6ut64eq5a7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
